@@ -25,8 +25,7 @@
 		<ul>
 			<li>Ruby</li>
 		</ul>
-			
-		<a href="https://www.youtube.com/stinkykicks">YouTube</a>
 		</div>
 	</body>
+	<a href="https://www.youtube.com/stinkykicks">YouTube</a>
 </html>
