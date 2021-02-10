@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		#<title>My Portfolio</title>
+		<title>My Portfolio</title>
 	</head>
 	<body>
 		<div>
@@ -25,6 +25,8 @@
 		<ul>
 			<li>Ruby</li>
 		</ul>
+			
+		<a href="https://www.youtube.com/stinkykicks">YouTube</a>
 		</div>
 	</body>
 </html>
