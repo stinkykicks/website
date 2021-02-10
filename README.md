@@ -27,5 +27,5 @@
 		</ul>
 		</div>
 	</body>
-	<a href="https://www.youtube.com/stinkykicks">YouTube</a>
+	<a href="https://www.youtube.com/channel/UCTeAwrqPsWEVeqM9QM4O91Q">YouTube</a>
 </html>
